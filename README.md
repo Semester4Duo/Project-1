@@ -22,12 +22,13 @@ om in de mindset van ons persona te komen zijn we begonnen met het onderzoeken v
 >Vervolgens hebben we op de probleemstelling een ideation fase gestart waarin we zoveel mogelijk oplossingen bedenken op onze stelling. Dit hebben we gedaan met verschillende methodes zoals mindmaps.
 
 >Uit deze ideation fase hadden we gekozen voor een app die films en series matcht voor partners. we zijn begonnen met het maken van een MoSCoW waarin we de features van onze app beschrijven en rangschikking.
+
 [Documentation Source](/Documentatie)
 
 ## Design
 <small>You translate concepts into user friendly designs and validate these designs through user tested iterations.
-Possible Products</small>
-Huidig niveau( Het niveau wat wij denken behaald te hebben ):Oriënting
+Possible Products</small><br>
+Huidig niveau:Oriënting
 
 >Voor het design gedeelte van onze app hebben we ons vooral gefocust op het maken van wireframes zodat we goed konden bekijken of onze doelgroep hierbij paste. De wireframes hebben we in figma gemaakt. Deze wireframes vormden de basis voor ons werkend prototype
 
@@ -36,20 +37,20 @@ https://www.figma.com/file/5Rxa42sdlrktr4zz0uee1k/Improve-M.E.?node-id=0%3A1
 [Documentation Source](/Documentatie)
 
 ## Hardware
-<small>You employ relevant mobile hardware.</small>
-Huidig niveau( Het niveau wat wij denken behaald te hebben ): -
+<small>You employ relevant mobile hardware.</small><br>
+Huidig niveau: -
 
 ## Professional Skills
 <small>You demonstrate your professional development as a mobile developer in the form of authentic, professional IT tasks in which both the process and the result are visible.
-Possible Products</small>
-Huidig niveau( Het niveau wat wij denken behaald te hebben ):Oriënting
+Possible Products</small><br>
+Huidig niveau:Oriënting
 
 >We hebben er altijd voor geprobeerd te zorgen om professioneel te werk te gaan binnen ons project. ook zorgen we ervoor dat we tijdens onze feedback momenten een kleine presentatie hebben voorbereid waarin we onze updates laten zien en proberen we de feedpulse altijd goed in te vullen. Ook hebben we geprobeerd om zo veel mogelijk volgens de design thinking methode te werk te gaan. Dit ging niet altijd soepel en na elk feedback moment weten we wat we kunnen verbeteren voor de volgende iteratie. ook hebben we ons portfolio niet goed bijgehouden tijdens ons project. we zorgen ervoor dat we bij ons volgende project na elk onderdeel al direct toevoegen aan ons portfolio.
 
 ## Software
 <small>You implement high quality applications using designs and programming languages on both (mobile) client and server side.
-Possible Products</small>
-Huidig niveau( Het niveau wat wij denken behaald te hebben ):Beginning
+Possible Products</small><br>
+Huidig niveau:Beginning
 
 >Voor onze software leeruitkomsten zijn we begonnen met het individueel maken van swiftui oefeningen. Het programmeren van ons project  hebben we het gesplitst in twee onderdelen backend in c# en de app in swiftui we hebben beide aan de onderwerpen gewerkt om ervoor te zorgen dat we beide de leeruitkomsten kunnen aantonen. we hebben de ontwikkeling van onze app bijgehouden in GitHub 
 
