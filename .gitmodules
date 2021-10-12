@@ -1,0 +1,6 @@
+[submodule "Code/Backend"]
+	path = Code/Backend
+	url = https://github.com/Semester4Duo/MovieMatcherBackend
+[submodule "Code/App"]
+	path = Code/App
+	url = https://github.com/Semester4Duo/MovieMatcher
